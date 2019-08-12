@@ -1,0 +1,25 @@
+{
+  "name": "simpleddp-wechat-miniprogram-dirver",
+  "version": "1.0.0",
+  "description": "simpleddp(Meteor DDP Client) driver for wechat miniprogram(微信小程序)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imhazige/simpleddp-wechat-miniprogram-dirver.git"
+  },
+  "keywords": [
+    "meteor",
+    "ddp",
+    "wechat",
+    "miniprogram"
+  ],
+  "author": "Ka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imhazige/simpleddp-wechat-miniprogram-dirver/issues"
+  },
+  "homepage": "https://github.com/imhazige/simpleddp-wechat-miniprogram-dirver#readme"
+}
