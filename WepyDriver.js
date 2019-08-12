@@ -1,6 +1,6 @@
 import { DriverBase } from './DriverBase';
-export class UniappDriver extends DriverBase {
+export class WepyDriver extends DriverBase {
   get api() {
-    return uni;
+    return wepy;
   }
 }

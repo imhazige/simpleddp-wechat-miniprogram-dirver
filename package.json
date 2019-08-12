@@ -1,6 +1,6 @@
 {
   "name": "simpleddp-wechat-miniprogram-dirver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simpleddp(Meteor DDP Client) driver for wechat miniprogram(微信小程序)",
   "main": "index.js",
   "scripts": {
